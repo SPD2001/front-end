@@ -2,15 +2,16 @@
 {
     text-align: center;
     color: white;
-    background:rgb(2, 2, 1);
+    background: rgb(116, 16, 16);
     padding: 1;
     text-align: center; 
     height: 50px;
 }
 .text
 {
+    border-color: black;
     text-align: center;
-    height: 25px;
+    height: 30px;
     width: 200px;
     background-image: linear-gradient(to left,  #a4a29f, white);
 }
@@ -20,6 +21,8 @@
     width: 90px;
     font-size: medium;
     color: white;
-    background-image: linear-gradient(to left,  #20102b, rgb(136, 101, 168));
+    background-image: linear-gradient(to left,#022f55,#35abe6);
     text-decoration: double;
 }
+
+
